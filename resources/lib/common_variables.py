@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 """
- Author: enen92 
+ Author: Norin (copied it)
 
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -27,13 +27,13 @@ import sys
 
 ####### Specific youtube, youtube channel or addon configuration variables ###########
 #youtube
-channel_id = "UCtp9s4L-kxIRy221VVtgjXg"
+channel_id = "UChuLeaTGRcfzo0UjL-2qSbQ"
 youtube_api_key = "AIzaSyAxaHJTQ5zgh86wk7geOwm-y0YyNMcEkSc" #If you fork this addon please register another api key (https://developers.google.com/youtube/android/player/register)
 #youtube channel
-cast = ['Nathan Betzen','Ned Scott'] #Team members / Cast of the channel. [] if none
-tvshowtitle = 'KordKutters' #Name of the show
+cast = ['Professional Surfers'] #Team members / Cast of the channel. [] if none
+tvshowtitle = 'Worldsurfleague' #Name of the show
 status = 'Continuing' #Status of the show
-episode_playlists = ['PL5BrgZd5yMYgty7363LhlkR8iPJ73-fCZ'] #List of playlists to consider every integer as the episode number
+episode_playlists = [] #List of playlists to consider every integer as the episode number
 
 #addon config
 show_live_category = True #hides Live directory if set to False
