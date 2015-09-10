@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: KordKutters
-# Addon id: plugin.video.kordkutters
-# Addon Provider: enen92
+# Addon Name: World Surf League
+# Addon id: plugin.video.worldsurfleague
+# Addon Provider: Norin
 msgid ""
 msgstr ""
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -13,8 +13,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "#30000"
-msgid "KordKutters"
-msgstr "KordKutters"
+msgid "World Surf League"
+msgstr "World Surf League"
 
 msgctxt "#30001"
 msgid "Live"
